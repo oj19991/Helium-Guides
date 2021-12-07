@@ -36,7 +36,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 | **Power Requirement** | 9-16V DC @ 15W |
 | **Average Power Consumption** | ~8W* |
 | **Annual Power Consumption** | ~70kWh |
-| **Maximum TX Power** | 24-27dBm** |
+| **Maximum TX Power** | 24dBm |
 | **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi |
 | **Antenna Connection** | RP-SMA Female |
 | **Rated Ambient Temperature** | 20-30C |
